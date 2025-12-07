@@ -1,35 +1,23 @@
 *{
     margin: 0%;
     padding: 0%;
+    box-sizing: border-box;
 }
 header{
-    display: flex;
     background-color: rgb(234, 240, 240);
-    width: 100%;
-    height: 9vh;
-    
-}
-.name{
-    text-align: center;
-    align-content: center;
-    width: 40%;
+    display: flex;
+    justify-content:space-between;
 }
 
-.nav a{
-    display: flex;
-    color: black;
-}
-.nav-button{
+/*.nav-button{
     background-color: rgb(68, 8, 8);
     padding: 8px;
     padding-left: 19px;
     padding-right: 19px;
     border-radius: 10%;
-    text-align: center;
-    align-content: center;
     color: white;
-}
-.hero-section{
+}*/
+/*.hero-section{
     background-color: rgb(68, 8, 8);
     height: 40vh;
     text-align: center;
@@ -47,8 +35,8 @@ header{
     padding-right: 2rem;
     border-radius: 0.50rem;
     font-size: 0.90rem;
-}
-.cards{
+}*/
+/*.cards{
     display: flex;
     background-color: whitesmoke;
     
@@ -61,4 +49,4 @@ header{
     height: 55vh;
     margin: 5px;
 
-}
+}*/
